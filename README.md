@@ -1,8 +1,8 @@
-# <center>欢迎来到DingHai OS官方网站</center></font>
+# <center>欢迎来到DingHai OS官方网站</center>
 
 -------------------------------------
 
-## <font face="微软雅黑" size=6 color=#0099ff><center>DingHai OS官方网站</center></font>
+## <center>DingHai OS官方网站</center>
 
 > ## DingHai OS 1.0.0
 >
@@ -12,11 +12,11 @@
 > >
 > > --------------------------------------
 > >
-> > ##### **#支持运行环境#**：[^Microsoft office 365] [^Microsoft office 2019] [^Apple Keynote iPhone or iPad]
+> > #### **#支持运行环境#**：[^Microsoft office 365] [^Microsoft office 2019] [^Apple Keynote iPhone or iPad]
 > >
 > > **#不支持的版本#**[^ All WPS]
 > >
-> >  ###### *&对于WPS的支持率非常低，尽量不要使用WPS进行体验。*
+> > *&对于WPS的支持率非常低，尽量不要使用WPS进行体验。*
 > >
 > > ------------------
 > >
