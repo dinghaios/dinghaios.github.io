@@ -2,17 +2,15 @@
 
 -------------------------------------
 
-## <center>DingHai OS版本</center>
+## <center>**DingHai OS版本**</center>
 
 > ## DingHai OS 1.0.0
 >
-
-> > #### **#支持版本**：TV ![版本](dinghaios.github.io/支持版本图标.jpg)
+> > #### **#支持版本**：TV                                                                               ![版本](dinghaios.github.io/支持版本图标.jpg)
 > >
 > > --------------------------------------
 > >
-> > ![环境](dinghaios.github.io/运行环境图标.jpg)
-> > #### **#支持运行环境**:Microsoft office 365,Microsoft office 2019,Apple Keynote for iPhone or iPad.
+> > #### **#支持运行环境**:Microsoft office 365,Microsoft office 2019,Apple Keynote for iPhone or iPad.   ![环境](dinghaios.github.io/运行环境图标.jpg)
 > >
 > > #### **#不支持的版本**:WPS.
 > >
