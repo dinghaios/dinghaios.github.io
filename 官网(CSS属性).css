@@ -1,0 +1,120 @@
+@charset "utf-8";
+/* CSS Document */
+.all{
+	width: 500px;
+	height: 600px;
+	margin: 100px auto;
+	padding: 10px 5px;
+	background-image: -webkit-linear-gradient(320deg,rgba(253,122,223,1.00) 0%,rgba(48,206,255,1.00) 100%);
+	background-image: -moz-linear-gradient(320deg,rgba(253,122,223,1.00) 0%,rgba(48,206,255,1.00) 100%);
+	background-image: -o-linear-gradient(320deg,rgba(253,122,223,1.00) 0%,rgba(48,206,255,1.00) 100%);
+	background-image: linear-gradient(130deg,rgba(253,122,223,1.00) 0%,rgba(48,206,255,1.00) 100%);
+	border-radius: 10px;
+	-webkit-box-shadow: 5px 5px 10px -2px #343434;
+	box-shadow: 5px 5px 10px -2px #343434;
+	}
+.first{
+	width: 500px;
+	height: 140px;
+	margin: 10px auto;
+	border-radius: 20px;
+	text-align: center;
+	font-size: 45px;
+	font-weight: 400;
+	color: #FFEC40;
+	font-family: "微软雅黑";
+	font-style: normal;
+	letter-spacing: 4px;
+}
+.second{
+	width: 470px;
+	margin: 5px auto;
+	padding: 8px 2px;
+	text-align: center;
+	line-height: 30px;
+	font-family: "微软雅黑";
+	font-weight: 800;
+	font-size: 150%;
+	color: #565555;
+	background-image: -webkit-linear-gradient(130deg,rgba(33,233,199,1.00) 0%,rgba(248,231,4,1.00) 100%);
+	background-image: -moz-linear-gradient(130deg,rgba(33,233,199,1.00) 0%,rgba(248,231,4,1.00) 100%);
+	background-image: -o-linear-gradient(130deg,rgba(33,233,199,1.00) 0%,rgba(248,231,4,1.00) 100%);
+	background-image: linear-gradient(320deg,rgba(33,233,199,1.00) 0%,rgba(248,231,4,1.00) 100%);
+	border-radius: 10px;
+	-webkit-box-shadow: 4px 4px 9px -2px #424242;
+	box-shadow: 4px 4px 9px -2px #424242;
+	}
+.save{
+	width: 80px;
+	margin: 80px auto;
+	padding: 3px;
+	text-align: center;
+	background-image: -webkit-linear-gradient(317deg,rgba(251,249,0,1.00) 0%,rgba(255,0,253,1.00) 100%);
+	background-image: -moz-linear-gradient(317deg,rgba(251,249,0,1.00) 0%,rgba(255,0,253,1.00) 100%);
+	background-image: -o-linear-gradient(317deg,rgba(251,249,0,1.00) 0%,rgba(255,0,253,1.00) 100%);
+	background-image: linear-gradient(133deg,rgba(251,249,0,1.00) 0%,rgba(255,0,253,1.00) 100%);
+	font-weight: 900;
+	font-size: 110%;
+	line-height: -5px;
+	border-radius: 12px;
+	text-decoration: none;
+	-webkit-box-shadow: 2px 2px 6px 0px #787878;
+	box-shadow: 2px 2px 6px 0px #787878;
+}
+.save:link{
+	width: 80px;
+	margin: 80px auto;
+	padding: 3px;
+	text-align: center;
+	background-image: -webkit-linear-gradient(317deg,rgba(251,249,0,1.00) 0%,rgba(255,0,253,1.00) 100%);
+	background-image: -moz-linear-gradient(317deg,rgba(251,249,0,1.00) 0%,rgba(255,0,253,1.00) 100%);
+	background-image: -o-linear-gradient(317deg,rgba(251,249,0,1.00) 0%,rgba(255,0,253,1.00) 100%);
+	background-image: linear-gradient(133deg,rgba(251,249,0,1.00) 0%,rgba(255,0,253,1.00) 100%);
+	font-weight: 900;
+	font-size: 110%;
+	line-height: -5px;
+	border-radius: 12px;
+	color:#2E2E2E;
+}
+.save:hover{
+	width: 80px;
+	margin: 80px auto;
+	padding: 3px;
+	text-align: center;
+	background-image: -webkit-linear-gradient(317deg,rgba(243,243,240,1.00) 0%,rgba(195,195,195,1.00) 100%);
+	background-image: -moz-linear-gradient(317deg,rgba(243,243,240,1.00) 0%,rgba(195,195,195,1.00) 100%);
+	background-image: -o-linear-gradient(317deg,rgba(243,243,240,1.00) 0%,rgba(195,195,195,1.00) 100%);
+	background-image: linear-gradient(133deg,rgba(243,243,240,1.00) 0%,rgba(195,195,195,1.00) 100%);
+	font-weight: 900;
+	font-size: 110%;
+	line-height: -5px;
+	border-radius: 12px;
+	color:#000000;
+}
+.save:active{
+	width: 80px;
+	margin: 80px auto;
+	padding: 3px;
+	text-align: center;
+	background-image: -webkit-linear-gradient(317deg,rgba(39,213,241,1.00) 0%,rgba(170,21,203,1.00) 100%);
+	background-image: -moz-linear-gradient(317deg,rgba(39,213,241,1.00) 0%,rgba(170,21,203,1.00) 100%);
+	background-image: -o-linear-gradient(317deg,rgba(39,213,241,1.00) 0%,rgba(170,21,203,1.00) 100%);
+	background-image: linear-gradient(133deg,rgba(39,213,241,1.00) 0%,rgba(170,21,203,1.00) 100%);
+	font-weight: 900;
+	font-size: 110%;
+	line-height: -5px;
+	border-radius: 12px;
+	color:#000000;
+}
+a:link{
+	color: #484848;
+	font-weight: 600;
+}
+a:hover{
+	color: #484848;
+	font-weight: 600;
+}
+a:active{
+	color: #484848;
+	font-weight: 600;
+}
